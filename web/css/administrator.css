@@ -1,0 +1,10 @@
+.slider{
+    background: url("../img/wallpaperAdmin.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    padding: 80px;
+}
+.formF{
+    margin-left: 35%;
+}
